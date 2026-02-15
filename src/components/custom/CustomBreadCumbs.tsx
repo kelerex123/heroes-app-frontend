@@ -1,5 +1,5 @@
 import { Link } from "react-router";
-import { Breadcrumb, BreadcrumbList, BreadcrumbItem, BreadcrumbLink, BreadcrumbSeparator, BreadcrumbPage } from "../ui/breadcrumb"
+import { Breadcrumb, BreadcrumbList, BreadcrumbItem, BreadcrumbLink, BreadcrumbSeparator } from "../ui/breadcrumb"
 import { Fragment } from "react/jsx-runtime";
 
 interface Breadcrumb {

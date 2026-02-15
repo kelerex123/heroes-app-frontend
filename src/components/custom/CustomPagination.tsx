@@ -1,4 +1,4 @@
-import { ChevronLeft, MoreHorizontal, ChevronRight } from "lucide-react"
+import { ChevronLeft, ChevronRight } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { useSearchParams } from "react-router";
 
