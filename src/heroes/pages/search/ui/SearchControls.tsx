@@ -126,7 +126,7 @@ export const SearchControls = () => {
                                 </div>
                             </div>
                             <div className="mt-4">
-                                <label className="text-sm font-medium">Minimum Strength: 0/10</label>
+                                <label className="text-sm font-medium">Minimum Strength: {strength}/10</label>
                                 <Slider
                                     defaultValue={[strength]}
                                     max={10}
